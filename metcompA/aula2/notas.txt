@@ -1,0 +1,4 @@
+juan    4 8  6
+pedro   7 4 10
+mateus  7 8  5
+felipe  8 3  7
